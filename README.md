@@ -1,7 +1,7 @@
 # 💻 Ian Santos
 **`Desenvolvedor BackEnd`**
 
-Me chamo Ian Santos. Sou formado em Análise e Desenvolvimento de Sistemas na Unijorge. Sou especialista em back-end, com experiência em Java, Python, AWS, Docker, Git, SQL e PostgreSQL. Atualmente estou focando em Machine Learning e LLMs, desenvolvendo soluções com impacto social significativo. Atualmente, estou expandindo minhas habilidades em desenvolvimento frontend, com ênfase em React, JavaScript e Node.js para criar soluções dinâmicas e eficientes. 
+Me chamo Ian Santos. Sou formado em Análise e Desenvolvimento de Sistemas na Unijorge. Sou especialista em back-end, com experiência em Java, Python, AWS, Docker, Git, SQL e PostgreSQL. Atualmente estou focando em Machine Learning e LLMs, desenvolvendo soluções com impacto social significativo, e estou expandindo minhas habilidades em desenvolvimento frontend, com ênfase em React, JavaScript e Node.js para criar soluções dinâmicas e eficientes. 
 
 Me siga no meu linkedin "[Ian Santos Oficial](https://www.linkedin.com/in/iansantosoficial)" 
 
